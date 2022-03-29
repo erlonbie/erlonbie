@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🎇 Spare time: Learn new programing languages/technologies
 - ⚡ Fun fact: Vim lover ❤️
 - 😄 Pronouns: ele/dele
+- 🐧 I use Arch BTW
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=erlonbie&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
