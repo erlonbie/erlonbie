@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - 🐧 I use Arch btw
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=erlonbie&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlonbie&hide=jupyter%20notebook&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/erlonbie/github-readme-stats) 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=erlonbie&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlonbie&hide=jupyter%20notebook&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/erlonbie/erlonbie#readme) 
 
 
 <!--<div>
