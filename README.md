@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🏫 Computer Science: [UFAM](https://ufam.edu.br/)
 - 🎇 Spare time: Learn new programing languages/technologies
-- ⚡ Fun fact: Vim lover ❤️
+- ⚡ Fun fact: Vim enthusiast ⌨️
 - 😄 Pronouns: he/his/him
 - 🐧 I use Arch btw
 
