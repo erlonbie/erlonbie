@@ -38,6 +38,23 @@ Here are some ideas to get you started:
 
 ## Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,java,python,lua,js,css,html" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,react,nodejs,docker,gcp,cmake,git,github" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,neovim,latex,linux,md,androidstudio" />
+  </a>
+</p>      
+
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Erlon-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Erlon-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
@@ -59,6 +76,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Erlon-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Erlon-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
 </div>
+-->
+
+
 
 ## Social
 
