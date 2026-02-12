@@ -1,31 +1,14 @@
 
 <!--
-**erlonbie/erlonbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-## Hi, I'm Erlon👾
 
 ## About
 
-- 🏫 Computer Science: [UFAM](https://ufam.edu.br/)
-- 🎇 Spare time: Learn new programing languages/technologies
-- ⚡ Fun fact: (Neo)vim enthusiast ⌨️
-- 😄 Pronouns: he/his/him
-- 🐧 I use Arch btw
+My interests in general are Backend development, Homelab and DevOps and (Neo)Vim
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=erlonbie&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlonbie&hide=css,sass,handlebars,scss,jupyter%20notebook&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/erlonbie/erlonbie#readme) 
+<!--[![Github stats](https://github-readme-stats.vercel.app/api?username=erlonbie&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlonbie&hide=css,sass,handlebars,scss,jupyter%20notebook&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/erlonbie/erlonbie#readme) -->
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=erlonbie&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
 
 
