@@ -7,9 +7,17 @@
 My interests in general are Backend development, Homelab, DevOps and (Neo)Vim
 
 
-<!--[![Github stats](https://github-readme-stats.vercel.app/api?username=erlonbie&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlonbie&hide=css,sass,handlebars,scss,jupyter%20notebook&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/erlonbie/erlonbie#readme) -->
+[![Github stats](https://github-readme-stats-ten-mu-77.vercel.app/api?username=erlonbie&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
+[![Top Langs](https://github-readme-stats-ten-mu-77.vercel.app/api/top-langs/?username=erlonbie&hide=css,sass,handlebars,scss,jupyter%20notebook&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/erlonbie/erlonbie#readme)
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=erlonbie&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)](https://github.com/erlonbie/erlonbie#readme)
+
+<!--
+<a href="https://github.com/erlonbie"><img src="https://github-readme-stats-ten-mu-77.vercel.app/api/top-langs/?username=erlonbie&hide=css,sass,handlebars,scss,jupyter%20notebook,makefile,dockerfile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" width="320px"/></a>
+
+<a href="http://www.github.com/erlonbie"><img src="https://github-readme-stats-ten-mu-77.vercel.app/api?username=erlonbie&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Igor's GitHub stats" width="500px" /></a>
+
+<a href="http://www.github.com/erlonbie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erlonbie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500px"/></a>
+-->
 
 
 <!--<div>
