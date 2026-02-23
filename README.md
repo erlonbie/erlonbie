@@ -30,17 +30,17 @@ My interests in general are Backend development, Homelab, DevOps and (Neo)Vim
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,java,python,lua,js,css,html,php" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,go,java,python,lua,ts,javascript,html,css,php" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,react,nodejs,docker,gcp,cmake,git,github" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,kubernetes,kafka,gcp,aws,git,ansible,terraform" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,latex,linux,md,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,latex,linux,md,androidstudio,nest,spring,fastapi,angular,react,nodejs,graphql" />
   </a>
 </p>      
 
